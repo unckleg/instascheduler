@@ -1,5 +1,5 @@
 # Instagram scheduler & automation panel
-:iphone: Instagram scheduler &amp; automation panel for business users, like/follow lovers, developers.
+:iphone: Instagram scheduler &amp; automation panel for business users, like/follow addicts, developers...
 
 **Schema:**
 
